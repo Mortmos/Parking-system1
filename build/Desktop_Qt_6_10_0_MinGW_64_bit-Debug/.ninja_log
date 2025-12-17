@@ -1,0 +1,25 @@
+# ninja log v6
+19	1309	7865876035469051	ParkingSystem_autogen/timestamp	49240bccfe9fa557
+19	1309	7865876035469051	ParkingSystem_autogen/mocs_compilation.cpp	49240bccfe9fa557
+19	1309	7865876035469051	C:/Users/MSI/Documents/Lab-2-8/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ParkingSystem_autogen/timestamp	49240bccfe9fa557
+19	1309	7865876035469051	C:/Users/MSI/Documents/Lab-2-8/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ParkingSystem_autogen/mocs_compilation.cpp	49240bccfe9fa557
+1443	3493	7865876038429289	CMakeFiles/ParkingSystem.dir/ParkingSpot.cpp.obj	858aac8e8baed5d
+1430	3570	7865876038292289	CMakeFiles/ParkingSystem.dir/ParkingFloor.cpp.obj	4fb50baa89a010b6
+1453	4165	7865876038526068	CMakeFiles/ParkingSystem.dir/SpotWidget.cpp.obj	5a12f175f373a16f
+1408	4253	7865876038070399	CMakeFiles/ParkingSystem.dir/ParkingLot.cpp.obj	7d6e560d46baedb0
+1351	4602	7865876037500267	CMakeFiles/ParkingSystem.dir/main.cpp.obj	a9ed6e707f2b2ab
+1378	4811	7865876037776961	CMakeFiles/ParkingSystem.dir/mainwindow.cpp.obj	fa681292481ead44
+1323	4917	7865876037229353	CMakeFiles/ParkingSystem.dir/ParkingSystem_autogen/mocs_compilation.cpp.obj	8564a56591e3e753
+4918	5724	7865876073166774	ParkingSystem.exe	47bdb199be2d299a
+117	743	7866293861024539	ParkingSystem_autogen/timestamp	49240bccfe9fa557
+117	743	7866293861024539	ParkingSystem_autogen/mocs_compilation.cpp	49240bccfe9fa557
+117	743	7866293861024539	C:/Users/MSI/Documents/Lab-2-8/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ParkingSystem_autogen/timestamp	49240bccfe9fa557
+117	743	7866293861024539	C:/Users/MSI/Documents/Lab-2-8/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ParkingSystem_autogen/mocs_compilation.cpp	49240bccfe9fa557
+745	6574	7866293867301312	CMakeFiles/ParkingSystem.dir/ParkingLot.cpp.obj	7d6e560d46baedb0
+6574	10436	7866293925592960	ParkingSystem.exe	47bdb199be2d299a
+128	590	7866303029383907	ParkingSystem_autogen/timestamp	49240bccfe9fa557
+128	590	7866303029383907	ParkingSystem_autogen/mocs_compilation.cpp	49240bccfe9fa557
+128	590	7866303029383907	C:/Users/MSI/Documents/Lab-2-8/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ParkingSystem_autogen/timestamp	49240bccfe9fa557
+128	590	7866303029383907	C:/Users/MSI/Documents/Lab-2-8/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ParkingSystem_autogen/mocs_compilation.cpp	49240bccfe9fa557
+591	5544	7866303033988722	CMakeFiles/ParkingSystem.dir/mainwindow.cpp.obj	fa681292481ead44
+5544	6136	7866303083522000	ParkingSystem.exe	47bdb199be2d299a
